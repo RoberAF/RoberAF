@@ -14,7 +14,6 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **ralvarezferrera@gmail.com**
 
 - ⚡ Fun fact :- Films and Games are my passions.
 
